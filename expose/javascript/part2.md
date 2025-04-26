@@ -29,3 +29,10 @@
     E. Output is false because true takes the value of 1 and 1 and 2 are not the same.
     F. Output is true because boolean(2) will return true.
 15. '==' allows type coercion where as '===' check for value and type.
+16. a
+17. The function will return the array [2, 4, 6]. The modifyArray function loops through the array and pplies the doSomething function to each element of the array which is why it returns [2, 4, 6].
+18. a
+19. 1
+    4
+    3
+    2
